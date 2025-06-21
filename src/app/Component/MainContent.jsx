@@ -19,7 +19,7 @@ const MainContent = () => {
     <div style={{
       display: 'flex',
       justifyContent: isVisible?"space-between": "center",
-      padding: "2rem",
+      padding: isMobile?"0":"2rem",
       flexDirection: isMobile ? 'column' : 'row'
     }}>
 
