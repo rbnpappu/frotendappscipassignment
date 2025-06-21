@@ -1,8 +1,6 @@
 import React, { useEffect } from 'react'
 import SideCustomDropDownSideBar from './SideCustomDropDownSideBar'
 import MainContentProducts from './MainContentProducts'
-import FooterComponent from './FooterComponent'
-import FooterComponentinend from './FooterComponentinend'
 import useToggleStore from './store/store'
 
 const MainContent = () => {

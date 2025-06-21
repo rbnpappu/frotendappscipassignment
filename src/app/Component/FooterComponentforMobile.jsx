@@ -113,6 +113,7 @@ export default function FooterComponentForMobile() {
           <div
             style={{
               display: "flex",
+              alignItems: "center",
               gap: "0.5rem",
             }}
           >
@@ -129,7 +130,7 @@ export default function FooterComponentForMobile() {
               style={{
                 color: "white",
                 fontFamily: "sans-serif",
-                fontSize: "8px",
+                fontSize: "13px",
                 fontWeight: 300,
               }}
             >

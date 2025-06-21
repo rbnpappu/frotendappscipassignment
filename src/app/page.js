@@ -3,7 +3,6 @@
 
 import { useEffect, useState } from "react";
 import FooterComponent from "./Component/FooterComponent";
-import FooterComponentinend from "./Component/FooterComponentinend";
 import HeroSectionComponent from "./Component/HeroSectionComponent";
 import MainContent from "./Component/MainContent";
 import MainContenttopBar from "./Component/MainContenttopBar";

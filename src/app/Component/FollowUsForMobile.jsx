@@ -12,7 +12,6 @@ const FollowUsForMobile = () => {
         flexDirection: 'column',
         alignItems: 'flex-start',
         margin: '2rem',
-        borderTop: '1px solid white',
         borderBottom: '2px solid white',
         paddingBottom: '1rem',
       }}
